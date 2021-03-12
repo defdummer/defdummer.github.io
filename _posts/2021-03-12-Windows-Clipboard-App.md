@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 #The Windows Clipboard App
 
